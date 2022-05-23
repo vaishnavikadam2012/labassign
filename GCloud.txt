@@ -1,3 +1,6 @@
+https://console.cloud.google.com/home/activity
+https://cloud.google.com/sdk/docs/quickstart
+
 gcloud init
 
 1.reinitilize
