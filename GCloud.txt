@@ -1,0 +1,5 @@
+gcloud init
+
+1.reinitilize
+1.vaishnavikadam2012
+cloudproject-1 id

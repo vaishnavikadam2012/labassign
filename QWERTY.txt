@@ -1,0 +1,12 @@
+ import numpy as pd
+import matplotlib.pyplot as plt
+import pandas as pd
+
+from google .colab import drive
+drive.mount('/content/drive/')
+
+import pandas as pd
+data = pd.Series({'1st:'1, '2nd':2, '3rd':3, '4th':4})
+print(data,'\n')
+print('size=',data.size)
+

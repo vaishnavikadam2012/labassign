@@ -1,0 +1,32 @@
+public class ClassName2 {
+public static void apex_method()
+{
+    Integer count=1;
+    do{
+        system.debug(count);
+        count++;
+    }while(count<12);
+}
+}
+
+
+debug->enter apex code->openlog
+
+ClassName2.apex_method();
+debug-only
+
+
+
+
+public class ClassName2 {
+public static void apex_method()
+{
+    
+        system.debug('Hello! vaishnavi here');
+      
+}
+}
+
+debug->enter apex code->openlog
+ClassName2.apex_method();
+debug-only
